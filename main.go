@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/avinetworks/sdk/go/clients"
-	"github.com/avinetworks/sdk/go/session"
+	"github.com/vmware/alb-sdk/go/clients"
+	"github.com/vmware/alb-sdk/go/session"
 )
 
 // AviSessionTimeout is timeout for avi session
